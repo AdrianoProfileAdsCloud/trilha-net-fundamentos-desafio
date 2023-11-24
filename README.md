@@ -5,14 +5,14 @@ www.dio.me
 Este desafio proposto consiste em colocar em prática parte dos conhecimentos adquiridos no módulo de Fundamentos e C#,por se tratar de um Sitema simples como podemos verificar no Diagrama de classe; pelo menos nesta primeira versão que contempla o que foi solicitado no desafio não foi lançado mão de muitos recursos e até mesmo tratamento de erros etc.
   Mais como dito anteriormente se trata de uma primeira versão, ao final deste Bootcamp-Programação C# com CRM Dynamics, farei alterações siginificativas de acordo com os conhecimentos adquiridos no bootcamp.
    Alterações que contemplaram os conhimentos adquiridos nos módulos descritos abaixo; os quais os certificados de conclusão estão no Linkedin(www.linkedin.com/in/adssolutions):
-    * Sintaxe e Tipos de Dados em C#
-    * Tipos de Operadores em C#
-    * Operadores Aritméticos em C#
-    * Conhecendo as Estruturas de Repetição em C#
-    * Array e Listas em C#
-    * Propriedades, Métodos e Construtores com C#
-    * Manipulando Valores com C#
-    * Exceções e Coleções com C#
+* Sintaxe e Tipos de Dados em C#
+* Tipos de Operadores em C#
+* Operadores Aritméticos em C#
+* Conhecendo as Estruturas de Repetição em C#
+* Array e Listas em C#
+* Propriedades, Métodos e Construtores com C#
+* Manipulando Valores com C#
+* Exceções e Coleções com C#
 
 ## Contexto
 Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
