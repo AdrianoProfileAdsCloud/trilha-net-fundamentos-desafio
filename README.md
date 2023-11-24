@@ -2,13 +2,23 @@
 www.dio.me
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
+Este desafio proposto consiste em colocar em prática parte dos conhecimentos adquiridos no módulo de Fundamentos e C#,por se tratar de um Ssitema simples como podemos verificar no Diagrama de classe, pelo menos nesta primeira versão que contempla o que foi solicitado no desafio não foi lançado mão de muitos recursos e até mesmo tratamento de erros etc.
+  Mais como dito anteriormente se trata de uma primeira versão, ao final deste Bootcamp-Programação C# com CRM Dynamics, farei alterações siginificativas de acordo com os conhecimentos adquiridos no bootcamp.
+    Contemplará o conhimento adquirido nos módulos seguintes, os quais os certificados de conclusão estão no Linkedin(www.linkedin.com/in/adssolutions):
+    * Sintaxe e Tipos de Dados em C#
+    * Tipos de Operadores em C#
+    * Operadores Aritméticos em C#
+    * Conhecendo as Estruturas de Repetição em C#
+    * Array e Listas em C#
+    * Propriedades, Métodos e Construtores com C#
+    * Manipulando Valores com C#
+    * Exceções e Coleções com C#
 
 ## Contexto
 Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos.
 
 ## Proposta
-Você precisará construir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
+Contruir uma classe chamada "Estacionamento", conforme o diagrama abaixo:
 ![Diagrama de classe estacionamento](diagrama_classe_estacionamento.png)
 
 A classe contém três variáveis, sendo:
@@ -35,4 +45,9 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+O código foi concedido pela metade, dei continuidade obedecendo as regras descritas acima.
+
+## Como Executar
+Como dito anteriormente nao foi implementado tratamentos erros metodos adicionais ou qualquer outro tipo de melhoria até o presente momento, afim de cumprir o que foi pedido. Desta forma ao executar este programa siga exatamente o que é pedido, ou terá erros consequentemente a finalização do programa!
+
+  Até os próximos ajustes....
