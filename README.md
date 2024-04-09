@@ -1,5 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
-www.dio.me
+# Formação .NET Developer - Fundamentos.
 
 ## Desafio de projeto
 Este desafio proposto consiste em colocar em prática parte dos conhecimentos adquiridos no módulo de Fundamentos e C#,por se tratar de um Sitema simples como podemos verificar no Diagrama de classe; pelo menos nesta primeira versão que contempla o que foi solicitado no desafio não foi lançado mão de muitos recursos e até mesmo tratamento de erros etc.
